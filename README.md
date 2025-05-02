@@ -5,3 +5,4 @@
 - Dynamic routes suppourt
 - No configs - deploys to vercel or anything out of the box
 - Uses rolldown vite and vite plugin react oxc for super speed - 300ms build times - sadly tsc is slow
+- JS caching with vite plugin PWA
